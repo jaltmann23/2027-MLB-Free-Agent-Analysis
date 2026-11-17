@@ -1,5 +1,3 @@
-# 2027-MLB-Free-Agent-Analysis
-
 # Analyzing the 2026-27 MLB Hitter Free Agent Class
 
 An analysis of the 2026-27 MLB hitter free agent class using Statcast data.
